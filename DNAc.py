@@ -8,7 +8,7 @@ print (" _____  _   _             _______          __ \n|  __ \| \ | |   /\     
 print       ("\n welcome to DNA CW\n Chose One item:",
                 "\n0 = DNA count",
                 "\n1 = mRNA",
-                "\n2 = DNA Transalate",);
+                "\n2 = DNA Translate",);
 ################################################################################
 L = int(input("wich letter:"));
 if (L == 0):
